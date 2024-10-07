@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=LAPTOP-8D3ITF0I\\SQLEXPRESS;Database=virtualartgallery;Trusted_Connection=True"
+  }
+
+}
